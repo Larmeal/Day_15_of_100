@@ -85,6 +85,7 @@ Coffee: {resources["coffee"]} g
         supply()
         ask_again()
        
+# My teacher version
 
 
 
